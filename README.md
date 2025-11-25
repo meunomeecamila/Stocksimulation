@@ -33,6 +33,7 @@ A aplicação utiliza **JavaScript**, **p5.js** e **Firebase Realtime Database**
 ### 1. Clonar o repositório
 ### 2. Adicionar o firebase no projeto
 No index.html, inclua sua configuração:
+```html
 <script>
   const firebaseConfig = {
     apiKey: "",
