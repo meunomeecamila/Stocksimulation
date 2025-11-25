@@ -44,6 +44,7 @@ No index.html, inclua sua configuração:
     messagingSenderId: "",
     appId: ""
   };
+```html
 
   firebase.initializeApp(firebaseConfig);
 </script>
