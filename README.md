@@ -44,10 +44,11 @@ No index.html, inclua sua configuração:
     messagingSenderId: "",
     appId: ""
   };
-```
 
   firebase.initializeApp(firebaseConfig);
 </script>
+
+```
 
 ### 3. Iniciar o projeto
 Você pode usar Live Server no VS Code ou qualquer servidor local.
